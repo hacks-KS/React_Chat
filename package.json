@@ -1,0 +1,24 @@
+{
+  "name": "React_Chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacks-KS/React_Chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "bugs": {
+    "url": "https://github.com/hacks-KS/React_Chat/issues"
+  },
+  "homepage": "https://github.com/hacks-KS/React_Chat#readme"
+}
